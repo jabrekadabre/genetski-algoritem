@@ -5,4 +5,5 @@ dva načina izdelave novega dna zapisa:
 - naključne mutacije
 - gene swap - gena staršev se zamenjata, eden od dveh novih dna-jev ostane. (naključno izbran)
 
-*koda je bila napisana bolj za vajo in vrjamem da je trash lol
+*koda je bila napisana bolj za vajo in vrjamem da je trash*
+*file nerual_net.py pa ni dokončan in koda ne deluje*
