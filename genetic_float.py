@@ -9,7 +9,7 @@ kolk_generacij = 20
 
 kolk_zvali = 2000
 kolk_genov_se_swapa = 1
-kolk_lastnosti_vsak_gen = [10,1,1,1,3,20]
+kolk_lastnosti_vsak_gen = [10,1,1,1,3,20]          #DNA !!!! (kle poves kako naj zgleda dna teh zivali npr:[4,1,1,4,4,1,1,4,3,4])
 #randomnes_v_prezivetju = 5 #to so procenti %%%% // zenkrat nima funkcije
 kolk_naj_jih_prezivi = 30 # to so procenti %%%%
 
